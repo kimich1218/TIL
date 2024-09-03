@@ -13,12 +13,14 @@
 
 ### 해시 충돌 (Hash Collision)
 ![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/82080962/363870732-53d91f11-0d1d-4023-8542-9ea73b7e0e70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240903T065057Z&X-Amz-Expires=300&X-Amz-Signature=8745eb5f9df3801f2f94efbaff3b327694aba9ca439406258874d8b4f3d38693&X-Amz-SignedHeaders=host&actor_id=82080962&key_id=0&repo_id=851395303)
+
 해시 함수는 동일한 해시 값을 여러 키에 대해 생성할 수 있는데, 이를 **해시 충돌**이라고 한다. 해시 충돌이 발생하면 두 개 이상의 키가 동일한 인덱스를 참조하게 되며, 이를 처리하기 위해 여러 가지 방법이 사용된다.
 
 **해시 충돌 해결 방법**
 
 **1. 분리 연결법(Separate Chaining)**
 ![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/82080962/363870880-55b0b6ae-1b1e-4c3d-8f6f-202474e1f71f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240903T065145Z&X-Amz-Expires=300&X-Amz-Signature=ada5b249214919d74888ac7f29d79bc443a4b3ca28ded4c9afd62f83979ee33a&X-Amz-SignedHeaders=host&actor_id=82080962&key_id=0&repo_id=851395303)
+
 분리 연결법은 동일한 해시 값을 가진 키들을 연결 리스트로 연결하여 하나의 버킷에 저장하는 방법이다. 충돌이 발생하면 해당 버킷에 새로운 데이터를 리스트의 형태로 추가한다. 이 방법은 해시 테이블의 크기와 상관없이 비교적 간단하게 충돌을 처리할 수 있다.
 
 **2. 개방 주소법(Open Addressing)**
@@ -26,7 +28,7 @@
 
 - **선형 조사(Linear Probing)**: 충돌이 발생한 버킷 이후의 버킷들을 순차적으로 탐색하여 빈 자리를 찾는다.
 - **이차 조사(Quadratic Probing)**: 충돌이 발생한 위치에서 제곱 수만큼 떨어진 위치를 탐색하여 빈 자리를 찾는다.
-* **이중 해싱(Double Hashing)**: 두 번째 해시 함수를 사용하여 새로운 해시 값을 계산하고, 해당 위치에 데이터를 저장한다.
+- **이중 해싱(Double Hashing)**: 두 번째 해시 함수를 사용하여 새로운 해시 값을 계산하고, 해당 위치에 데이터를 저장한다.
 
 ### 시간 복잡도
 해시 테이블에서 키를 통해 값을 찾는 작업은 일반적으로 **O(1)**의 시간 복잡도를 가진다. 이는 해시 함수가 키를 직접 인덱스로 변환하여 값을 즉시 찾아낼 수 있기 때문이다. 하지만, 해시 충돌이 발생하여 충돌 해결 과정이 필요할 때는 최악의 경우 **O(N)**의 시간 복잡도가 발생할 수 있다.

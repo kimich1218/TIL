@@ -11,5 +11,11 @@
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)
 
-### DataStructure
+### Data-Structure
 - [Hash Table](https://github.com/kimich1218/Study/blob/main/dataStructure/hashTable.md)
+
+### Operating-System
+- [쓰레드](https://github.com/kimich1218/Study/blob/main/operating-system/쓰레드.md)
+- [프로세스 개념](https://github.com/kimich1218/Study/blob/main/operating-system/프로세스-개념.md)
+- [프로세스 메모리구조](https://github.com/kimich1218/Study/blob/main/operating-system/프로세스-메모리구조.md)
+

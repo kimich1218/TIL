@@ -21,3 +21,5 @@
 
 ### Spring
 - [스프링 IoC와 Bean](https://github.com/kimich1218/Study/blob/main/spring/스프링-IoC-와-Bean.md)
+- [영속성 관리](https://github.com/kimich1218/Study/blob/main/spring/영속성-관리.md)
+- [프록시와 연관관계 정리](https://github.com/kimich1218/Study/blob/main/spring/프록시-연관관계-정리.md)

@@ -8,6 +8,7 @@
 ### Java
 - [StringTokenizer 메소드](https://github.com/kimich1218/TIL/blob/main/java/StringTokenier%20메소드.md)
 - [HotSpot VM은 무엇일까?](https://github.com/kimich1218/Study/blob/main/java/HotSpot-VM.md)
+- [JVM의 내부구조(런타임 데이터 영역)](https://github.com/kimich1218/Study/blob/main/java/JVM-내부구조(런타임데이터).md)
 
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)

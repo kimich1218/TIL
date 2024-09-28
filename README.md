@@ -10,6 +10,7 @@
 - [HotSpot VM은 무엇일까?](https://github.com/kimich1218/Study/blob/main/java/HotSpot-VM.md)
 - [JVM의 내부구조(런타임 데이터 영역)](https://github.com/kimich1218/Study/blob/main/java/JVM-내부구조(런타임데이터).md)
 - [Java 컴파일 과정](https://github.com/kimich1218/Study/blob/main/java/자바-컴파일-과정.md)
+- [JVM의 내부 구조(클래스 로더, 실행엔진)](https://github.com/kimich1218/Study/blob/main/java/JVM-내부구조(클래스%20로더%2C%20실행엔진).md)
 
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)

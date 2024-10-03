@@ -14,7 +14,7 @@
 
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)
-- [인덱스란] (https://github.com/kimich1218/Study/blob/main/database/인덱스란.md)
+- [인덱스란](https://github.com/kimich1218/Study/blob/main/database/인덱스란.md)
 ### Data-Structure
 - [Hash Table](https://github.com/kimich1218/Study/blob/main/dataStructure/hashTable.md)
 

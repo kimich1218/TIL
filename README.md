@@ -1,10 +1,3 @@
-# Study
-기억보다 기록을 우선시합니다.
-
-이해를 바탕으로 기록합니다.
-
-단순히 복사 넣기를 하지 않습니다.
-* * *
 ### Java
 - [StringTokenizer 메소드](https://github.com/kimich1218/TIL/blob/main/java/StringTokenier%20메소드.md)
 - [HotSpot VM은 무엇일까?](https://github.com/kimich1218/Study/blob/main/java/HotSpot-VM.md)
@@ -15,6 +8,12 @@
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)
 - [인덱스란](https://github.com/kimich1218/Study/blob/main/database/인덱스란.md)
+- [JOIN 쿼리](https://github.com/kimich1218/Study/blob/main/database/JOIN-쿼리.md)
+- [NULL](https://github.com/kimich1218/Study/blob/main/database/NULL.md)
+- [집계함수가 포함된 쿼리](https://github.com/kimich1218/Study/blob/main/database/집계함수가%20포함된%20쿼리.md)
+- [표현식을 사용한 쿼리](https://github.com/kimich1218/Study/blob/main/database/표현식을%20사용한%20쿼리.md)
+- [필터링 및 정렬](https://github.com/kimich1218/Study/blob/main/database/필터링-정렬.md)
+- [쿼리 실행 순서](https://github.com/kimich1218/Study/blob/main/database/쿼리%20실행%20순서.md)
 ### Data-Structure
 - [Hash Table](https://github.com/kimich1218/Study/blob/main/dataStructure/hashTable.md)
 

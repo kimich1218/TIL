@@ -22,6 +22,8 @@
 - [프로세스 개념](https://github.com/kimich1218/Study/blob/main/operating-system/프로세스-개념.md)
 - [프로세스 메모리구조](https://github.com/kimich1218/Study/blob/main/operating-system/프로세스-메모리구조.md)
 - [락 종류](https://github.com/kimich1218/Study/blob/main/operating-system/락-종류.md)
+- [커널](https://github.com/kimich1218/Study/blob/main/operating-system/커널.md)
+- [프로세스 상태](https://github.com/kimich1218/Study/blob/main/operating-system/프로세스%20상태.md)
 
 ### Spring
 - [스프링 IoC와 Bean](https://github.com/kimich1218/Study/blob/main/spring/스프링-IoC-와-Bean.md)

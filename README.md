@@ -13,7 +13,12 @@
 - [집계함수가 포함된 쿼리](https://github.com/kimich1218/Study/blob/main/database/집계함수가%20포함된%20쿼리.md)
 - [표현식을 사용한 쿼리](https://github.com/kimich1218/Study/blob/main/database/표현식을%20사용한%20쿼리.md)
 - [필터링 및 정렬](https://github.com/kimich1218/Study/blob/main/database/필터링-정렬.md)
+- [제약 조건이 있는 쿼리](https://github.com/kimich1218/Study/blob/main/database/제약%20조건이%20있는%20쿼리.md)
 - [쿼리 실행 순서](https://github.com/kimich1218/Study/blob/main/database/쿼리%20실행%20순서.md)
+- [테이블 생성](https://github.com/kimich1218/Study/blob/main/database/테이블%20생성.md)
+- [테이블 수정, 삭제](https://github.com/kimich1218/Study/blob/main/database/테이블%20수정%2C%20삭제.md)
+- [INSERT, UPDATE, DELETE](https://github.com/kimich1218/Study/blob/main/database/INSERT%2C%20UPDATE%2C%20DELETE.md)
+
 ### Data-Structure
 - [Hash Table](https://github.com/kimich1218/Study/blob/main/dataStructure/hashTable.md)
 

@@ -29,6 +29,7 @@
 - [락 종류](https://github.com/kimich1218/Study/blob/main/operating-system/락-종류.md)
 - [커널](https://github.com/kimich1218/Study/blob/main/operating-system/커널.md)
 - [프로세스 상태](https://github.com/kimich1218/Study/blob/main/operating-system/프로세스%20상태.md)
+- [페이징을 통한 가상 메모리 관리](https://github.com/kimich1218/TIL/blob/main/operating-system/페이징을%20통한%20가상%20메모리%20관리.md)
 
 ### Spring
 - [스프링 IoC와 Bean](https://github.com/kimich1218/Study/blob/main/spring/스프링-IoC-와-Bean.md)

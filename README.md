@@ -4,6 +4,10 @@
 - [JVM의 내부구조(런타임 데이터 영역)](https://github.com/kimich1218/Study/blob/main/java/JVM-내부구조(런타임데이터).md)
 - [Java 컴파일 과정](https://github.com/kimich1218/Study/blob/main/java/자바-컴파일-과정.md)
 - [JVM의 내부 구조(클래스 로더, 실행엔진)](https://github.com/kimich1218/Study/blob/main/java/JVM-내부구조(클래스%20로더%2C%20실행엔진).md)
+- [기본자료형과 참조자료형](https://github.com/kimich1218/TIL/blob/main/java/기본자료형과%20참조자료형.md)
+- [오버로딩과 오버라이딩](https://github.com/kimich1218/TIL/blob/main/java/오버로딩과%20오버라이딩.md)
+- [클래스, 객체, 인스턴스](https://github.com/kimich1218/TIL/blob/main/java/클래스%2C%20객체%2C%20인스턴스.md)
+- [추상클래스와 인터페이스](https://github.com/kimich1218/TIL/blob/main/java/추상클래스와%20인터페이스.md)
 
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)

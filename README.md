@@ -8,6 +8,7 @@
 - [오버로딩과 오버라이딩](https://github.com/kimich1218/TIL/blob/main/java/오버로딩과%20오버라이딩.md)
 - [클래스, 객체, 인스턴스](https://github.com/kimich1218/TIL/blob/main/java/클래스%2C%20객체%2C%20인스턴스.md)
 - [추상클래스와 인터페이스](https://github.com/kimich1218/TIL/blob/main/java/추상클래스와%20인터페이스.md)
+- [가비지 컬렉터](https://github.com/kimich1218/TIL/blob/main/java/%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%ED%84%B0.md)
 
 ### Database
 - [InnoDB vs MyISAM](https://github.com/kimich1218/Study/blob/main/database/InnoDB%2C%20MyISAM%20차이점.md)
@@ -42,3 +43,6 @@
 - [스프링 IoC와 Bean](https://github.com/kimich1218/Study/blob/main/spring/스프링-IoC-와-Bean.md)
 - [영속성 관리](https://github.com/kimich1218/Study/blob/main/spring/영속성-관리.md)
 - [프록시와 연관관계 정리](https://github.com/kimich1218/Study/blob/main/spring/프록시-연관관계-정리.md)
+
+### Design Pattern
+- [싱글톤 패턴](https://github.com/kimich1218/TIL/blob/main/design/Singleton.md)

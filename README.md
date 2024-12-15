@@ -26,6 +26,10 @@
 - [트랜잭션 격리수준](https://github.com/kimich1218/TIL/blob/main/database/트랜잭션%20격리수준.md)
 - [정규화](https://github.com/kimich1218/TIL/blob/main/database/정규화.md)
 
+### Network
+- [TCP 커넥션](https://github.com/kimich1218/TIL/blob/main/network/TCP%20커넥션.md)
+- [캐시](https://github.com/kimich1218/TIL/blob/main/network/캐시.md)
+
 ### Data-Structure
 - [Hash Table](https://github.com/kimich1218/Study/blob/main/dataStructure/hashTable.md)
 
